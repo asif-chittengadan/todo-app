@@ -4,3 +4,6 @@ running
 add a new car
 make a note
 sit
+write
+playing
+studying
